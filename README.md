@@ -27,3 +27,6 @@ Comandos
 
 * Ver diferencias entre ramas
 ***git diff rama_1..rama_2***
+
+* Actualizar una rama con otra
+***git pull origin nombre_rama***
