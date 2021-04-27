@@ -24,3 +24,6 @@ Comandos
 
 * Cambiar a rama
 ***git checkout nombre_rama***
+
+* Ver diferencias entre ramas
+***git diff rama_1..rama_2***
