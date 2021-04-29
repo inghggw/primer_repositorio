@@ -26,4 +26,4 @@ Comandos
 ***git checkout nombre_rama***
 
 * Ver diferencias entre ramas
-***git diff rama_1..rama_2***
+***git diff rama_1..rama_23***
