@@ -31,4 +31,4 @@ Comandos
 
 * Actualizar una rama con otra
 ***git pull origin nombre_rama***
-
+*
